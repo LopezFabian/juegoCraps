@@ -1,4 +1,4 @@
-package miPresentacion;
+package juegoCraps;
 
 import java.util.Random;
 
